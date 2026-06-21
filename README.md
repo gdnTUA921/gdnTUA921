@@ -8,7 +8,7 @@ I am a Bachelor of Science in Information Technology (BSIT) student majoring in 
 
 **Bachelor of Science in Information Technology – Software Engineering**\
 Trinity University of Asia, Quezon City\
-2022 – Anticipated 2026
+2022 – 2026
 
 ## 🛠 Technical Skills
 
@@ -50,6 +50,7 @@ Trinity University of Asia, Quezon City\
 
 - **AI and Automation Webinar** – PynetLabs (2024)
 - **Cybersecurity Training Level 1** – College of Engineering and Information Sciences, Trinity University of Asia (2025)
+- **Information Technology Specialist (ITS) in Java** – Certiport (2026)
 
 ## 🏆 Participation & Leadership
 
@@ -58,7 +59,7 @@ Trinity University of Asia, Quezon City\
 
 ## 📫 Contact
 
-- 📧 Email: [giancarlodnonato@tua.edu.ph](mailto\:giancarlodnonato@tua.edu.ph)
+- 📧 Email: [jnonato906@gmail.com](mailto\:jnonato906@gmail.com)
 - 📍 Quezon City, Philippines
 
 ---
