@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I am a Bachelor of Science in Information Technology (BSIT) student majoring in Software Engineering at **Trinity University of Asia**, expected to graduate in 2026. I am motivated to gain hands-on industry experience, strengthen my technical skills, and contribute to team-based development environments.
+I am a Bachelor of Science in Information Technology (BSIT) graduate with major in Software Engineering at **Trinity University of Asia**. I am motivated to gain hands-on industry experience, strengthen my technical skills, and contribute to team-based development environments.
 
 ## 🎓 Education
 
